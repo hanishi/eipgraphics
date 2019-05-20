@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>wire_tap</title>
+  <rect x="1" y="1" width="61" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g>
+    <circle cx="31.5" cy="19.5" r="2.5" style="fill: #333"/>
+    <line x1="54.5" y1="19.5" x2="8.5" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  </g>
+  <polygon points="35.01 28.58 33.59 27.17 32.5 28.26 32.5 19.63 30.5 19.63 30.5 28.26 29.41 27.17 27.99 28.58 31.49 32.08 31.5 32.08 31.51 32.08 35.01 28.58" style="fill: #333"/>
+</svg>

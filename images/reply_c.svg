@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 34 36">
+  <title>reply_c</title>
+  <polyline points="16 28 6.53 28 6.53 15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="6.5" cy="6.5" r="6.5" style="fill: #333"/>
+  <g>
+    <rect x="36.55" y="40.27" width="3.05" height="11.31" transform="translate(-36.32 25.38) rotate(-45)" style="fill: #333"/>
+    <rect x="40" y="37.04" width="2.61" height="11.31" transform="translate(-33.09 26.71) rotate(-45)" style="fill: #333"/>
+    <rect x="43.14" y="34.11" width="2.18" height="11.31" transform="translate(-30.17 27.92) rotate(-45)" style="fill: #333"/>
+  </g>
+</svg>

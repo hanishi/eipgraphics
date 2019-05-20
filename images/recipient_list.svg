@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>recipient_list</title>
+  <rect x="1" y="1" width="61" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="40" cy="19.5" r="2.5" style="fill: #333"/>
+  <circle cx="40" cy="9.5" r="2.5" style="fill: #333"/>
+  <circle cx="40" cy="29.5" r="2.5" style="fill: #333"/>
+  <line x1="54.5" y1="19.5" x2="23.5" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="23" cy="19.5" r="2.5" style="fill: #333"/>
+  <line x1="8.5" y1="19.5" x2="23.5" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="54.5 9.5 39.5 9.5 23.5 19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <line x1="23.5" y1="19.5" x2="39.5" y2="29.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <line x1="54.5" y1="29.5" x2="39.5" y2="29.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+</svg>

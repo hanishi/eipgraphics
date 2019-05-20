@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>process_manager</title>
+  <rect x="1" y="1" width="61" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="27.5 19.5 14.5 19.5 14.5 25.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="35.5 19.5 48.5 19.5 48.5 25.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polygon points="39.5 19.5 31.5 24.61 23.5 19.5 31.5 14.39 39.5 19.5" style="fill: #333"/>
+  <rect x="42.5" y="25.5" width="12" height="8" style="fill: #333"/>
+  <rect x="8.5" y="25.5" width="12" height="8" style="fill: #333"/>
+  <rect x="25.5" y="25.5" width="12" height="8" style="fill: #333"/>
+  <line x1="31.5" y1="11.5" x2="31.5" y2="26.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="31.5" cy="8.5" r="4" style="fill: #333"/>
+</svg>

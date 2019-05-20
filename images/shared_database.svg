@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 54 53">
+  <title>shared_database</title>
+  <g>
+    <path d="M689,472.74c-5.34,0-9.68-1.27-9.68-2.84v4.26c0,1.57,4.33,2.84,9.68,2.84s9.68-1.27,9.68-2.84V469.9C698.68,471.47,694.34,472.74,689,472.74Z" transform="translate(-662 -424)" style="fill: #333"/>
+    <path d="M695.39,465.65a29.09,29.09,0,0,1-12.77,0c-2-.52-3.29-1.28-3.29-2.13v4.26a1.41,1.41,0,0,0,.71,1.06c1.44,1,4.91,1.77,9,1.77s7.53-.73,9-1.77a1.41,1.41,0,0,0,.71-1.06v-4.26C698.68,464.37,697.4,465.12,695.39,465.65Z" transform="translate(-662 -424)" style="fill: #333"/>
+    <path d="M689,455c-5.34,0-9.68,1.27-9.68,2.84v3.55a1.41,1.41,0,0,0,.71,1.06c1.44,1,4.91,1.77,9,1.77s7.53-.73,9-1.77a1.41,1.41,0,0,0,.71-1.06v-3.55C698.68,456.27,694.34,455,689,455Z" transform="translate(-662 -424)" style="fill: #333"/>
+  </g>
+  <line x1="27" y1="28.5" x2="27" y2="13" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="47 13 47 20.97 7 20.97 7 13" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g>
+    <rect width="14" height="11" style="fill: #333"/>
+    <rect x="20" width="14" height="11" style="fill: #333"/>
+    <rect x="40" width="14" height="11" style="fill: #333"/>
+  </g>
+</svg>

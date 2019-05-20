@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>normalizer</title>
+  <rect x="1" y="1" width="61" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g>
+    <g>
+      <line x1="30.38" y1="19.5" x2="40.38" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <g>
+        <polyline points="38.63 22.3 40.63 20.3 42.13 18.8" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <polyline points="38.63 16.7 40.63 18.7 42.13 20.2" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      </g>
+    </g>
+    <rect x="46.75" y="15.5" width="8" height="8" style="fill: #333"/>
+    <g>
+      <circle cx="14.75" cy="13.22" r="4.5" style="fill: #333"/>
+      <rect x="16.25" y="39.22" width="8" height="8" transform="translate(-23.13 6.48) rotate(-45)" style="fill: #333"/>
+      <polygon points="11.19 21.72 6.25 30.28 16.14 30.28 11.19 21.72" style="fill: #333"/>
+    </g>
+  </g>
+</svg>

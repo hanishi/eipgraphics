@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 80 63">
+  <title>smart_proxy</title>
+  <rect x="-3.5" y="21.5" width="61" height="37" transform="translate(71 4.5) rotate(90)" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g>
+    <g>
+      <circle cx="31" cy="10.5" r="2.5" style="fill: #333"/>
+      <line x1="46" y1="10.5" x2="16" y2="10.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+    <polygon points="34.51 19.58 33.09 18.17 32 19.26 32 10.63 30 10.63 30 19.26 28.91 18.17 27.49 19.58 30.99 23.08 31 23.07 31.01 23.08 34.51 19.58" style="fill: #333"/>
+  </g>
+  <g>
+    <circle cx="25.5" cy="36.5" r="2.5" style="fill: #333"/>
+    <g>
+      <g>
+        <circle cx="25.5" cy="44.5" r="2.5" style="fill: #333"/>
+        <line x1="16" y1="44.5" x2="26" y2="44.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      </g>
+      <g>
+        <circle cx="38.5" cy="44.5" r="2.5" style="fill: #333"/>
+        <line x1="47" y1="44.5" x2="38" y2="44.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      </g>
+      <polyline points="16 36.5 25 36.5 38 44.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <g>
+        <circle cx="25.5" cy="52.5" r="2.5" style="fill: #333"/>
+        <line x1="16" y1="52.5" x2="26" y2="52.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      </g>
+    </g>
+  </g>
+  <g>
+    <rect x="29.75" y="24" width="2.5" height="2" style="fill: #333"/>
+    <rect x="29.75" y="28" width="2.5" height="2" style="fill: #333"/>
+    <rect x="29.75" y="32" width="2.5" height="2" style="fill: #333"/>
+    <rect x="29.75" y="36" width="2.5" height="2" style="fill: #333"/>
+  </g>
+  <g>
+    <polygon points="6.96 14.99 5.54 16.41 6.64 17.5 0 17.5 0 19.5 6.64 19.5 5.54 20.59 6.96 22.01 10.46 18.51 10.45 18.5 10.46 18.49 6.96 14.99" style="fill: #333"/>
+    <polygon points="3.5 48.01 4.91 46.59 3.82 45.5 10.46 45.5 10.46 43.5 3.82 43.5 4.91 42.41 3.5 40.99 0 44.49 0.01 44.5 0 44.51 3.5 48.01" style="fill: #333"/>
+  </g>
+  <g>
+    <polygon points="55.5 48.01 56.91 46.59 55.82 45.5 62.46 45.5 62.46 43.5 55.82 43.5 56.91 42.41 55.5 40.99 52 44.49 52.01 44.5 52 44.51 55.5 48.01" style="fill: #333"/>
+    <polygon points="58.96 14.99 57.54 16.41 58.64 17.5 52 17.5 52 19.5 58.64 19.5 57.54 20.59 58.96 22.01 62.46 18.51 62.45 18.5 62.46 18.49 58.96 14.99" style="fill: #333"/>
+  </g>
+  <rect x="64" width="16" height="63" style="fill: #333"/>
+</svg>

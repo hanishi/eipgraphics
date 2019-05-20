@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>distribution_aggregate</title>
+  <rect x="1" y="1" width="61" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g>
+    <line x1="37.63" y1="19.5" x2="45.63" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <polyline points="43.88 22.3 45.88 20.3 47.38 18.8" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <polyline points="43.88 16.7 45.88 18.7 47.38 20.2" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+  </g>
+  <g>
+    <line x1="15.63" y1="19.5" x2="23.63" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <polyline points="21.88 22.3 23.88 20.3 25.38 18.8" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <polyline points="21.88 16.7 23.88 18.7 25.38 20.2" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+  </g>
+  <g>
+    <rect x="27.5" y="15.5" width="8" height="8" style="fill: #333"/>
+    <rect x="27.5" y="5.5" width="8" height="8" style="fill: #333"/>
+    <rect x="27.5" y="25.5" width="8" height="8" style="fill: #333"/>
+  </g>
+  <rect x="49.5" y="15.5" width="8" height="8" style="fill: #333"/>
+  <rect x="5.5" y="15.5" width="8" height="8" style="fill: #333"/>
+</svg>

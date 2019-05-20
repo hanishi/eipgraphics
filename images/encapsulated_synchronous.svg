@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 76 33">
+  <title>encapsulated_synchronous</title>
+  <g>
+    <rect width="20" height="33" style="fill: #333"/>
+    <rect x="56" width="20" height="33" style="fill: #333"/>
+  </g>
+  <g>
+    <polygon points="43.05 13.04 45.17 15.16 50.83 9.5 48.71 7.38 45.17 3.84 43.05 5.96 45.09 8 25.17 8 25.17 11 45.09 11 43.05 13.04" style="fill: #333"/>
+    <polygon points="32.95 19.96 30.83 17.84 27.29 21.38 25.17 23.5 30.83 29.16 32.95 27.04 30.91 25 50.83 25 50.83 22 30.91 22 32.95 19.96" style="fill: #333"/>
+  </g>
+</svg>

@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 34.5">
+  <title>message_1</title>
+  <polyline points="16 28 6.53 28 6.53 15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="6.5" cy="6.5" r="6.5" style="fill: #333"/>
+  <rect x="19" y="21.5" width="13" height="13" style="fill: #333"/>
+  <path d="M41.89,47.25H40.24V41a5.68,5.68,0,0,1-2.13,1.25V40.8a4.76,4.76,0,0,0,1.4-.8,3,3,0,0,0,1-1.37h1.34Z" transform="translate(-15 -15)" style="fill: #fff"/>
+</svg>

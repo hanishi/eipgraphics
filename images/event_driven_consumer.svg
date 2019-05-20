@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>event_driven_consumer</title>
+  <rect x="19" y="1" width="43" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <rect x="49" y="36" width="8" height="8" transform="translate(-11.76 28.69) rotate(-45)" style="fill: #333"/>
+  <path d="M43.18,35.79l-2.12,2.12.59.59H34.77l-.87-.87L30,33.68l-2.37,2.37,2.27,2.27H-1v3.35H29.86l-2.27,2.27L30,46.32l4.82-4.82h6.88l-.59.59,2.12,2.12L47.38,40Zm.89,4.71H30.85v-1H44.06l-1.59-1.59.71-.71L46,40l-2.8,2.8-.71-.71Z" transform="translate(1 -20.5)" style="fill: #333"/>
+</svg>

@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 79.46 47.38">
+  <title>dynamic_router</title>
+  <rect x="9.5" y="1" width="61" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="48.5" cy="19.5" r="2.5" style="fill: #333"/>
+  <circle cx="48.5" cy="9.5" r="2.5" style="fill: #333"/>
+  <circle cx="48.5" cy="29.5" r="2.5" style="fill: #333"/>
+  <line x1="63.38" y1="19.5" x2="48.38" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="31.5" cy="19.5" r="2.5" style="fill: #333"/>
+  <line x1="17" y1="19.5" x2="32" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="63 9.5 48 9.5 32 19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <line x1="63" y1="29.5" x2="48" y2="29.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g>
+    <line y1="19.5" x2="6" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <polyline points="4.25 22.3 6.25 20.3 7.75 18.8" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <polyline points="4.25 16.7 6.25 18.7 7.75 20.2" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+  </g>
+  <g>
+    <line x1="71" y1="19.5" x2="77" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <polyline points="75.25 22.3 77.25 20.3 78.75 18.8" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <polyline points="75.25 16.7 77.25 18.7 78.75 20.2" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+  </g>
+  <g>
+    <line x1="41" y1="47.38" x2="41" y2="41.38" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <polyline points="43.8 43.13 41.8 41.13 40.3 39.63" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <polyline points="38.2 43.13 40.2 41.13 41.7 39.63" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+  </g>
+  <g>
+    <line x1="41" y1="22" x2="41" y2="24" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <line x1="41" y1="18" x2="41" y2="20" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <line x1="41" y1="26" x2="41" y2="28" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <line x1="41" y1="30" x2="41" y2="32" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <line x1="41" y1="34" x2="41" y2="36" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <line x1="41" y1="14" x2="41" y2="16" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+  </g>
+</svg>

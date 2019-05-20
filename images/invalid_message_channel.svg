@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 62.06 17.78">
+  <title>invalid_message_channel</title>
+  <g>
+    <path d="M480.71,386.66c-.63,0-1.74,2.71-1.74,6.06s1.11,6.06,1.74,6.06h18l7-12.12Z" transform="translate(-478.97 -383.22)" style="fill: #333"/>
+    <path d="M539.29,386.66h-25l7,12.13h18c.63,0,1.74-2.71,1.74-6.06S539.92,386.66,539.29,386.66Z" transform="translate(-478.97 -383.22)" style="fill: #333"/>
+    <path d="M512,386.66l-2-3.44-2,3.44-7,12.13L499.73,401h20.53L519,398.78Zm-.95,4.69-.49,5.08h-1.08l-.5-5.08V389H511ZM511,399H509v-1.92H511V399Z" transform="translate(-478.97 -383.22)" style="fill: #333"/>
+  </g>
+</svg>

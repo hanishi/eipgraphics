@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60.45 30">
+  <title>channel_adapter</title>
+  <g>
+    <g>
+      <line x1="32.5" y1="15" x2="42.5" y2="15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <g>
+        <polyline points="40.75 17.8 42.75 15.8 44.25 14.3" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <polyline points="40.75 12.2 42.75 14.2 44.25 15.7" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      </g>
+    </g>
+    <g>
+      <line x1="43.25" y1="15" x2="33.25" y2="15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <g>
+        <polyline points="35 17.8 33 15.8 31.5 14.3" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+        <polyline points="35 12.2 33 14.2 31.5 15.7" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      </g>
+    </g>
+  </g>
+  <rect width="13.75" height="30" style="fill: #333"/>
+  <path d="M15.3,27.77l7.25,2.42V49.81L15.3,52.23V27.77M13.3,25V55l11.25-3.75V28.75L13.3,25Z" transform="translate(2.95 -25)" style="fill: #333"/>
+  <line x1="16.95" y1="15" x2="11.95" y2="15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <path d="M56.57,33.94H46.14c-.63,0-1.74,2.71-1.74,6.06s1.11,6.06,1.74,6.06h6.61C55,42,56.43,42.61,56.43,36A15.46,15.46,0,0,1,56.57,33.94Z" transform="translate(2.95 -25)" style="fill: #333"/>
+  <path d="M52.5,48.5c0-3,2.5-3.5,3.44-8.5a51.19,51.19,0,0,0,.56-8.5" transform="translate(2.95 -25)" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+</svg>

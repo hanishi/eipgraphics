@@ -1,0 +1,35 @@
+p {
+  margin: 30px 0 5px 0;
+  padding: 0 0 5px 0;
+  border-bottom: 1px dotted #999;
+}
+ul {
+  padding-inline-start: 0px;
+  font-size: 0;
+  list-style: none;
+}
+ul li {
+  width: 70px;
+  padding: 10px;
+  font-size: 13px;
+  text-align: center;
+  display: inline-block;
+  vertical-align: top;
+}
+ul li .image {
+  height: 70px;
+  display: block;
+  position: relative;
+}
+ul li .image img {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+ul li p {
+  margin: 10px 0 0 0;
+  font-size: 12px;
+  line-height: 1.2em;
+  border: none;
+}

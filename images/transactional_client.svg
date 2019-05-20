@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>transactional_client</title>
+  <rect x="19" y="1" width="43" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polygon points="35.29 17.13 31.34 13.18 28.97 15.55 31.24 17.82 0 17.82 0 21.18 31.24 21.18 28.97 23.45 31.34 25.82 37.66 19.5 35.29 17.13" style="fill: #333"/>
+  <rect x="42" y="13.5" width="12" height="12" style="fill: #333"/>
+  <ellipse cx="41.5" cy="19.5" rx="17.5" ry="12.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+</svg>

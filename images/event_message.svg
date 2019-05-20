@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 35">
+  <title>event_message</title>
+  <line x1="6" y1="28.5" x2="16" y2="28.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <line x1="6.53" y1="29.5" x2="6.53" y2="15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="6.5" cy="6.5" r="6.5" style="fill: #333"/>
+  <g>
+    <polygon points="22 24.5 22 26.5 22 30.5 22 32.5 29 32.5 29 30.5 24 30.5 24 29.5 24 27.5 24 26.5 29 26.5 29 24.5 24 24.5 22 24.5" style="fill: none"/>
+    <path d="M33,36.5v13H46v-13Z" transform="translate(-14 -14.5)" style="fill: #333"/>
+  </g>
+  <path d="M36.12,47.42V38.83h6.37v1.45H37.86v1.9h4.31v1.45H37.86V46h4.8v1.45Z" transform="translate(-14 -14.5)" style="fill: #fff"/>
+</svg>

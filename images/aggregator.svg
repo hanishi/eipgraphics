@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 63 39">
+  <title>aggregator</title>
+  <rect x="1" y="1" width="61" height="37" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <g>
+    <line x1="25.63" y1="19.5" x2="35.63" y2="19.5" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    <g>
+      <polyline points="33.88 22.3 35.88 20.3 37.38 18.8" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+      <polyline points="33.88 16.7 35.88 18.7 37.38 20.2" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+    </g>
+  </g>
+  <rect x="42" y="15.5" width="8" height="8" style="fill: #333"/>
+  <g>
+    <rect x="13" y="15.5" width="8" height="8" style="fill: #333"/>
+    <rect x="13" y="5.5" width="8" height="8" style="fill: #333"/>
+    <rect x="13" y="25.5" width="8" height="8" style="fill: #333"/>
+  </g>
+</svg>

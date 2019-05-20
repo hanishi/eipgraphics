@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 34.5">
+  <title>message_c</title>
+  <polyline points="16 28 6.53 28 6.53 15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <circle cx="6.5" cy="6.5" r="6.5" style="fill: #333"/>
+  <g>
+    <polygon points="19 34.5 23.59 34.5 19 29.91 19 34.5" style="fill: #333"/>
+    <polygon points="19 27.09 26.41 34.5 30.59 34.5 19 22.91 19 27.09" style="fill: #333"/>
+    <polygon points="32 33.09 32 28.91 24.59 21.5 20.41 21.5 32 33.09" style="fill: #333"/>
+    <polygon points="32 21.5 27.41 21.5 32 26.09 32 21.5" style="fill: #333"/>
+  </g>
+</svg>

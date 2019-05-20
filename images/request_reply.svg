@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 44 27">
+  <title>request_reply</title>
+  <g>
+    <rect y="15" width="12" height="12" style="fill: #333"/>
+    <polygon points="19.46 18.91 18.04 17.49 14.54 20.99 14.55 21 14.54 21.01 18.04 24.51 19.46 23.09 18.36 22 44 22 44 20 18.36 20 19.46 18.91" style="fill: #333"/>
+    <rect x="32" width="12" height="12" style="fill: #333"/>
+    <polygon points="24.54 8.09 25.96 9.51 29.46 6.01 29.45 6 29.46 5.99 25.96 2.49 24.54 3.91 25.64 5 0 5 0 7 25.64 7 24.54 8.09" style="fill: #333"/>
+  </g>
+</svg>

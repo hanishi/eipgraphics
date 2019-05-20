@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 50.5">
+  <title>message</title>
+  <line x1="6" y1="28" x2="16" y2="28" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="16 44 6.53 44 6.53 15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <rect x="19" y="37.5" width="13" height="13" style="fill: #333"/>
+  <circle cx="6.5" cy="6.5" r="6.5" style="fill: #333"/>
+  <g>
+    <polygon points="19 21.5 19 26.09 23.59 21.5 19 21.5" style="fill: #333"/>
+    <polygon points="26.41 21.5 19 28.91 19 33.09 30.59 21.5 26.41 21.5" style="fill: #333"/>
+    <polygon points="20.41 34.5 24.59 34.5 32 27.09 32 22.91 20.41 34.5" style="fill: #333"/>
+    <polygon points="32 34.5 32 29.91 27.41 34.5 32 34.5" style="fill: #333"/>
+  </g>
+  <line x1="6" y1="28" x2="16" y2="28" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <polyline points="16 44 6.53 44 6.53 15" style="fill: none;stroke: #333;stroke-miterlimit: 10;stroke-width: 2px"/>
+  <rect x="19" y="37.5" width="13" height="13" style="fill: #333"/>
+  <circle cx="6.5" cy="6.5" r="6.5" style="fill: #333"/>
+</svg>
